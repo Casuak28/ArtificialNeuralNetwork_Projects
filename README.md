@@ -1,2 +1,2 @@
-# ArtificialNeuralNetwork_Projects
+# Artificial Neural Network Projects
 Contains an assortment of Artificial Neural Network (ANN) based projects which I undertook at various points in my MTech course.
